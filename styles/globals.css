@@ -733,9 +733,9 @@ span.text-red {
 
   .footer-banner-image {
     width: 77%;
-    left: 30%;
-    top: 6%;
-    height: 56%
+    height: 62%;
+    top: -2%;
+    right: -6%;
   }
 
   .banner-desc .left h3 {
